@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="4096" height="4096" viewBox="0 0 512 512" role="img"
+     aria-labelledby="title desc">
+    <title id="title">linx-systems - Luchs / transparent</title>
+    <path fill="#F3DCAC" fill-rule="evenodd"
+          d="M112 100 L182 154 L209 147 L256 158 L303 147 L330 154 L400 100             L379 223 L405 270 L351 349 L292 382 L256 412 L220 382 L161 349 L107 270 L133 223 Z             M161 244 L225 257 L214 282 L171 269 Z             M351 244 L287 257 L298 282 L341 269 Z             M236 312 L276 312 L256 334 Z"/>
+    <path fill="#57C8A7" d="M137 140 L178 175 L149 202 Z M375 140 L334 175 L363 202 Z"/>
+</svg>
